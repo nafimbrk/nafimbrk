@@ -1,7 +1,7 @@
 # 🌟 Selamat Datang di Profil GitHub Saya! 🌟
 
 ## 🚀 Tentang Saya
-Halo! Saya Sabardi, Saya adalah mahasiswa Teknik Informatika dari Universitas Qamarul Huda Badarudin
+Halo! Saya Nafi', Saya adalah mahasiswa Informatika dari Universitas KH. A. Wahab Hasbullah
 
 - 🌐 **Website**: [nafimbrk.id](https://nafimbrk.id)
 - 📫 **Email**: [nafimubarok2005@gmail.com](mailto:nafimubarok2005@gmail.com)
