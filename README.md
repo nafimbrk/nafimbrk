@@ -4,7 +4,6 @@
 Halo! Saya Nafi', Saya adalah mahasiswa Informatika dari Universitas KH. A. Wahab Hasbullah
 
 - 📫 **Email**: [nafimubarok2005@gmail.com](mailto:nafimubarok2005@gmail.com)
-- 💼 **LinkedIn**: [Nafi' Mubarok](https://www.linkedin.com/in/nafi-mubarok-3b1009290)
 - 📘 **Tiktok**: [nafimbrk](https://www.tiktok.com/@nafimbrk)
 - 📸 **Instagram**: [nafimbrk](https://www.instagram.com/nafimbrk)
 
@@ -13,7 +12,7 @@ Halo! Saya Nafi', Saya adalah mahasiswa Informatika dari Universitas KH. A. Waha
 ## 🛠️ Keahlian Teknis
 
 - **Bahasa Pemrograman**: [Php, Javascript]
-- **Framework dan Library**: [Laravel, Tailwind, Jquery]
+- **Framework dan Library**: [Laravel, Tailwind, Alpine]
 - **Alat dan Platform**: [Git, Vscode, Postman, laptop tempur THINKPAD]
 
 ## 📈 Statistik GitHub
