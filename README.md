@@ -29,4 +29,4 @@ Saya selalu mencari peluang baru untuk belajar dan berkembang. Saat ini, saya te
 
 ---
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya melalui [email](mailto:nafimubarok2005@gmail.com) atau [LinkedIn](https://www.linkedin.com/in/nafi-mubarok-3b1009290) jika Anda ingin berdiskusi lebih lanjut.
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya melalui [email](mailto:nafimubarok2005@gmail.com) jika Anda ingin berdiskusi lebih lanjut.
