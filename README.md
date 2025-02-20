@@ -12,7 +12,7 @@ Halo! Saya Nafi', Saya adalah mahasiswa Informatika dari Universitas KH. A. Waha
 ## 🛠️ Keahlian Teknis
 
 - **Bahasa Pemrograman**: [Php, Javascript]
-- **Framework dan Library**: [Laravel, Tailwind, Alpine]
+- **Framework dan Library**: [Laravel, Tailwind, Alpine, Jquery]
 - **Alat dan Platform**: [Git, Vscode, Postman, laptop tempur THINKPAD]
 
 ## 📈 Statistik GitHub
